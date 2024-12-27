@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "title": "Montagne",
+    "description": "Une belle montagne enneigée.",
+    "url": "/images/mountain.jpg"
+  },
+  {
+    "id": 2,
+    "title": "Plage",
+    "description": "Une plage magnifique avec du sable doré.",
+    "url": "/images/beach.jpg"
+  },
+  {
+    "id": 3,
+    "title": "Forêt",
+    "description": "Une forêt dense et verdoyante.",
+    "url": "/images/forest.jpg"
+  },
+  {
+    "id": 4,
+    "title": "Désert",
+    "description": "Un désert avec des dunes dorées.",
+    "url": "/images/desert.jpg"
+  },
+  {
+    "id": 5,
+    "title": "Ville",
+    "description": "Une ville lumineuse la nuit.",
+    "url": "/images/city.jpg"
+  }
+]
